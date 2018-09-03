@@ -1,1 +1,1 @@
-# Binary2DecimalArduino
+My aim with this project is to help people learn about binary and to be able to quickly convert binary to decimal through muscle memory. This project has been ported from the original PIC16F84A microcontroller based version.
